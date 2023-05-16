@@ -1,0 +1,13 @@
+Ali3n Control Rigs for Facepunch Assets
+
+Copyright © 2023 Ali3n Systems
+
+No part of this package may be reproduced, distributed, or transmitted in any form or by any means without prior written consent from its author.
+
+S&box and the various .fbx files and their associated assets (textures, animations, etc.) in this package are all property of Facepunch Studios.
+
+Ali3n Systems is not affiliated nor endorsed in any way by Facepunch Studios and other Facepunch affiliates.
+
+The finished assets (poses, animations, etc.) that you made with this package shall be used for S&box purposes only.
+
+P.S. If anyone from Facepunch is reading this, please contact me and tell me under what proper license I shall release this. Thanks.
