@@ -1,4 +1,4 @@
-# Citizen First Person Citizen v0.1
+# First Person Citizen Control Rig v0.1
 
 Use only with the latest version of Blender.
 
