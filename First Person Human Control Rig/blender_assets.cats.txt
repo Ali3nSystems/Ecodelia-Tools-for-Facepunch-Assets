@@ -1,0 +1,13 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+d506fbc3-f604-44bc-aac4-916adf85602c:First Person Human Actions:First Person Human Actions
+325219ec-1316-47b2-a3a2-53e506a9a321:First Person Human Actions/Ali3n Actions:First Person Human Actions-Ali3n Actions
+9f3a051d-c809-4f96-93ff-dc922284e503:First Person Human Actions/Ali3n Actions/Miscellaneous:First Person Human Actions-Ali3n Actions-Miscellaneous
+5160b2c7-0aa3-4c29-8b12-d2a8ef752def:First Person Human Actions/Ali3n Actions/Miscellaneous/Poses:First Person Human Actions-Ali3n Actions-Miscellaneous-Poses
+831b8b42-415d-44a8-933d-dbb34af9003f:First Person Human Actions/Facepunch Actions:First Person Human Actions-Facepunch Actions
