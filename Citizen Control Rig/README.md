@@ -1,4 +1,4 @@
-# Citizen Control Rig v0.1
+# Citizen Control Rig v0.2
 
 Use only with the latest version of Blender.
 

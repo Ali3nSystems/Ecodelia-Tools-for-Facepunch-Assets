@@ -1,0 +1,8 @@
+First Person Human Control Rig v0.2 [5/19/2023]:
+
+- SKLT_first_person_human@OBJ; Disable in Viewports: ON --> OFF
+- SKLT_first_person_human@OBJ; Hide in Viewports: OFF --> ON
+
+First Person Human Control Rig v0.1 [5/18/2023]:
+
+- Added "First Person Human Control Rig" and related assets.

@@ -1,0 +1,8 @@
+Citizen Control Rig v0.2 [5/19/2023]:
+
+- SKLT_citizen@OBJ; Disable in Viewports: ON --> OFF
+- SKLT_citizen@OBJ; Hide in Viewports: OFF --> ON
+
+Citizen Control Rig v0.1 [5/16/2023]:
+
+- Added "Citizen Control Rig" and related assets.
