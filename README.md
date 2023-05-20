@@ -20,5 +20,6 @@
 
 * eEight (Main Developer): [Twitter](https://twitter.com/eE1ght), [Github](https://github.com/eEight-dev), [Steam](https://steamcommunity.com/id/eE1ght)
 * Setherizor (Addon Creator): [Gitlab](https://gitlab.com/setherizor)
+* Fortune (Feedback): [Youtube](https://www.youtube.com/c/FortuneDev), [Discord](https://discord.gg/YjAEhzk3qe)
 * Grodbert (Feedback): [Steam](https://steamcommunity.com/id/Grodbert)
 * Max (Feedback): [Twitter](https://twitter.com/maxlebled)
