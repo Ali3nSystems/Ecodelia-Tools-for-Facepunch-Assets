@@ -1,3 +1,7 @@
+First Person Human Control Rig v0.3 [7/12/2023]:
+
+- Adjusted the Control Rig to the latest skeleton bone changes and vertex weights.
+
 First Person Human Control Rig v0.2 [5/19/2023]:
 
 - SKLT_first_person_human@OBJ; Disable in Viewports: ON --> OFF

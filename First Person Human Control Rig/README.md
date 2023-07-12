@@ -1,4 +1,4 @@
-# First Person Human Control Rig v0.2
+# First Person Human Control Rig v0.3
 
 Use only with the latest version of Blender.
 
