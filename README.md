@@ -8,7 +8,7 @@
 
 ## Contact
 
-* If you have any feedback or would like to contact me, please DM me on discord eEight#4035.
+* If you have any feedback or would like to contact me, please DM me on discord "ee1ght".
 
 ## To be added
 
