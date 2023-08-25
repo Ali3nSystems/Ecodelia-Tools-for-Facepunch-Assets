@@ -1,0 +1,19 @@
+Paypal (Don't have one yet):
+
+CRYPTOCURRENCIES:
+
+Bitcoin (BTC): bc1qdsxwqmctkwmqwesuekc26qa7mcxgxtkqkwntpn
+
+Ethereum (ETH): 0x316299531BA606fBE911EA7CC25A9681361380b6
+
+Solana (SOL): GuKvq4qZerUy897TFtBTdcSrcuSpkDorMpPYzC3sv3MK
+
+Tether (USDT):
+-ETH Network: 0x316299531BA606fBE911EA7CC25A9681361380b6
+-SOL Network: GuKvq4qZerUy897TFtBTdcSrcuSpkDorMpPYzC3sv3MK
+
+Dogecoin (DOGE): D8z3mb838RKA3JjwcFJHiBQCvFmsqbGzcX
+
+Monero (XMR): 43Qt7naNj2oi72fRBJyZRyPSGFBdmZ9R1aUiEhxfSeHPVSEevviJHrxDZ2aoERiKQiiUPPBkQQMCF2Y3FCc57xysQCZ814R
+
+Nano (XNO): nano_3mf7b8fky3pxen6475rkf31kej4ahueupdc9immag69ugo6crz6emb6ds7oj
