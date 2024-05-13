@@ -1,3 +1,0 @@
-First Person Citizen Rig v0.1 [5/19/2023]:
-
-- Added "First Person Citizen Control Rig" and related assets.
