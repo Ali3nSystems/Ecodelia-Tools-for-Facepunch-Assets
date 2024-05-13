@@ -1,25 +1,11 @@
-# Ali3n Control Rigs for Facepunch Assets
+# Ecodelia Tools for Facepunch Assets
 
-## Huge thank you to Setherizor for making a custom addon that automates the action export.
+"Ecodelia Tools for Facepunch Assets" is a free and open-source repository which offers different tools targeting Facepunch Studios' assets. These tools may consist of "Live-Retargeting Control Rigs", custom animations, custom renders of said assets, etc.
+If you intend to use these tools, please make sure to read the documentation first.
 
-* Export Helper Addon: https://gitlab.com/setherizor/blender-export-helper
-* Check the documentation to find out more about this addon.
-* Make sure you use the latest Blender version and it is extremely recommended to use the latest version of the "Better Fbx Importer & Exporter" addon, otherwise you might get funny bone transforms.
+## Issues
+
+* If you have any feedback, feature requests, questions or discovered any issues with these tools, please open an issue [here](https://github.com/Ali3nSystems/Ecodelia-Tools-for-Facepunch-Assets/issues). Alternatively you may contact me directly.
 
 ## Contact
-
-* If you have any feedback or would like to contact me, please DM me on discord "ee1ght".
-
-## To be added
-
-* A control rig for the Facepunch USP and its associated assets.
-* A control rig for the Facepunch MP5 and its associated assets.
-* A control rig for the Facepunch Humans.
-
-## Credits 
-
-* eEight (Main Developer): [Twitter](https://twitter.com/eE1ght), [Github](https://github.com/eEight-dev), [Steam](https://steamcommunity.com/id/eE1ght)
-* Setherizor (Addon Creator): [Gitlab](https://gitlab.com/setherizor)
-* Fortune (Feedback): [Youtube](https://www.youtube.com/c/FortuneDev), [Discord](https://discord.gg/YjAEhzk3qe)
-* Grodbert (Feedback): [Steam](https://steamcommunity.com/id/Grodbert)
-* Max (Feedback): [Twitter](https://twitter.com/maxlebled)
+* Discord: eeight3d
