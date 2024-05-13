@@ -1,0 +1,49 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+4a50cfa8-2fb6-4aa4-b9c4-0e3278bd1c16:citizen:citizen
+0361ba59-3976-45b4-b014-90a1dca59465:citizen/citizen_animationlist:citizen-citizen_animationlist
+cd984945-024f-485c-9626-0e941269045a:citizen/citizen_animationlist/Face:citizen-citizen_animationlist-Face
+b91ff0e6-85cc-4119-91aa-c314935ba390:citizen/citizen_animationlist/Face/Eyes:citizen-citizen_animationlist-Face-Eyes
+824297b3-4de9-40c1-be7a-29d4b4206be5:citizen/citizen_animationlist/Gestures:citizen-citizen_animationlist-Gestures
+0879fc0f-1f4c-4df8-a09a-489987274ce6:citizen/citizen_animationlist/Idle:citizen-citizen_animationlist-Idle
+85c143ac-b6e9-4d9a-a072-538bf303fe4f:citizen/citizen_animationlist/Idle/Sit:citizen-citizen_animationlist-Idle-Sit
+99f15bfa-1965-4c4d-8a59-7a139c9fafea:citizen/citizen_animationlist/Menu:citizen-citizen_animationlist-Menu
+d1e984a0-6d4f-4e96-8a6f-83b8f554d623:citizen/citizen_animationlist/Misc:citizen-citizen_animationlist-Misc
+8384d7e2-4d71-4b3c-b8a9-fceafb630547:citizen/citizen_animationlist/Movement:citizen-citizen_animationlist-Movement
+7a5761a8-e1ca-42c6-80fb-c32bb1863be0:citizen/citizen_animationlist/Movement/Airborne:citizen-citizen_animationlist-Movement-Airborne
+2019fab3-a105-45a3-99b3-4f1b76b1e2bb:citizen/citizen_animationlist/Movement/Airborne/Land:citizen-citizen_animationlist-Movement-Airborne-Land
+b296fd1d-c40f-4528-800e-7c80907c8059:citizen/citizen_animationlist/Movement/CrouchWalk:citizen-citizen_animationlist-Movement-CrouchWalk
+12c71e9d-660f-4631-a193-06419dc7d91d:citizen/citizen_animationlist/Movement/Ledge:citizen-citizen_animationlist-Movement-Ledge
+0a69f420-8f89-414c-a26f-62667d5fe47c:citizen/citizen_animationlist/Movement/LocomotionLean:citizen-citizen_animationlist-Movement-LocomotionLean
+a8a76c17-c360-4a87-9232-1a31862ef6f9:citizen/citizen_animationlist/Movement/Noclip:citizen-citizen_animationlist-Movement-Noclip
+cf419226-2783-496d-b66e-b2a7ac58e5f2:citizen/citizen_animationlist/Movement/Roll:citizen-citizen_animationlist-Movement-Roll
+ced2004d-16b1-4ad3-95ba-29dd3176f904:citizen/citizen_animationlist/Movement/Run:citizen-citizen_animationlist-Movement-Run
+a304281e-93c5-4498-bc9c-52d96bbbf8a9:citizen/citizen_animationlist/Movement/Shuffle:citizen-citizen_animationlist-Movement-Shuffle
+276a3c7c-30a5-4421-818a-35231a50b09c:citizen/citizen_animationlist/Movement/Skid:citizen-citizen_animationlist-Movement-Skid
+46e20aed-d465-401c-8abb-0f81e0ca79c9:citizen/citizen_animationlist/Movement/Slide:citizen-citizen_animationlist-Movement-Slide
+5e26bb67-8424-4b8a-9668-664bdfcc0c6a:citizen/citizen_animationlist/Movement/Sprint:citizen-citizen_animationlist-Movement-Sprint
+0fb6a764-b0e7-4616-a787-2a5838203276:citizen/citizen_animationlist/Movement/Swim:citizen-citizen_animationlist-Movement-Swim
+a75e98a1-b49c-41b0-b093-0a8ddabef13e:citizen/citizen_animationlist/Movement/Walk:citizen-citizen_animationlist-Movement-Walk
+e14039a1-a7db-47fa-b859-b420e0b8cb34:citizen/citizen_animationlist/Movement/Walk/WalkOld:citizen-citizen_animationlist-Movement-Walk-WalkOld
+ca6796e1-457f-4a8e-a957-603cb8fadea9:citizen/citizen_animationlist/Scale:citizen-citizen_animationlist-Scale
+00ddd5f8-e372-42d8-aa9c-ce89b618ebe0:citizen/citizen_animationlist/Weapons:citizen-citizen_animationlist-Weapons
+130cf2a9-4dfc-4106-af1f-8362629ee5ae:citizen/citizen_animationlist/Weapons/01_Pistol:citizen-citizen_animationlist-Weapons-01_Pistol
+5c93534c-0ee8-45b5-a5b0-6ee32b947c03:citizen/citizen_animationlist/Weapons/02_SMG:citizen-citizen_animationlist-Weapons-02_SMG
+31829d55-36cb-4536-8c95-d00dc7c37241:citizen/citizen_animationlist/Weapons/03_Shotgun:citizen-citizen_animationlist-Weapons-03_Shotgun
+ac7718e3-0a21-4038-a7cb-a5b61ccebb58:citizen/citizen_animationlist/Weapons/04_HoldItem:citizen-citizen_animationlist-Weapons-04_HoldItem
+8ed348a8-2695-40d7-8a09-c1c5fa713086:citizen/citizen_animationlist/Weapons/04_HoldItem/HoldItem_2H:citizen-citizen_animationlist-Weapons-04_HoldItem-HoldItem_2H
+eddd6b23-f6c0-4350-bc78-ef8c23761bb3:citizen/citizen_animationlist/Weapons/04_HoldItem/HoldItem_LH:citizen-citizen_animationlist-Weapons-04_HoldItem-HoldItem_LH
+1285bfb6-4365-4f51-9073-4499006d0965:citizen/citizen_animationlist/Weapons/04_HoldItem/HoldItem_RH:citizen-citizen_animationlist-Weapons-04_HoldItem-HoldItem_RH
+1c159139-0487-45c3-84f0-34c2679d2227:citizen/citizen_animationlist/Weapons/05_Melee_Punching:citizen-citizen_animationlist-Weapons-05_Melee_Punching
+cd8490af-121e-49dc-a3d4-b06c9251a247:citizen/citizen_animationlist/Weapons/06_Melee_Items:citizen-citizen_animationlist-Weapons-06_Melee_Items
+b7083353-d711-48e0-a154-faaab4a12b43:citizen/citizen_animationlist/Weapons/07_RPG:citizen-citizen_animationlist-Weapons-07_RPG
+0f0ff0e0-ea2a-4698-9979-f1ae78b6912b:citizen/citizen_animationlist/Weapons/99_Others:citizen-citizen_animationlist-Weapons-99_Others
+77b3d3b2-2209-4376-8f66-31c3e814d66a:citizen/citizen_animationlist/Weapons/HoldAdjustmentLayer:citizen-citizen_animationlist-Weapons-HoldAdjustmentLayer
+ffc1248f-c53a-4b66-8c1b-bd08df5b363b:citizen/citizen_animationlist_debug:citizen-citizen_animationlist_debug
+1506f249-3082-4c9b-8c30-5468dd990d73:citizen/citizen_animationlist_unicycle:citizen-citizen_animationlist_unicycle
