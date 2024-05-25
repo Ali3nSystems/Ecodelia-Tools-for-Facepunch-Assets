@@ -4,8 +4,8 @@ Citizen Control Rig v0.3 [5/13/2024]
 
 Citizen Control Rig v0.2 [5/19/2023]:
 
-- SKLT_citizen@OBJ; Disable in Viewports: ON --> OFF
-- SKLT_citizen@OBJ; Hide in Viewports: OFF --> ON
+- SKLT_citizen@OBJ; Disable in viewports: ON --> OFF
+- SKLT_citizen@OBJ; Hide in viewports: OFF --> ON
 
 Citizen Control Rig v0.1 [5/16/2023]:
 

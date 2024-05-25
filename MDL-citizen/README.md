@@ -13,7 +13,6 @@ This control rig drives the already existing skeleton from the citizen.vmdl file
 * Standard IK & Pole System.
 * Standard Camera System (On the Control Rig only) in case you want to animate viewmodel animations on the Citizen Control Rig then transfer it to the First Person Citizen Control Rig and tweak it.
 * Added Twist Control System from ModelDoc (This is only in case the twist control bones will be added to citizen.fbx. Even if you animate these, they won't do anything.).
-* Compatibility with all the other Ali3n Control Rigs.
 * Custom Bone Shapes.
 * Custom Bone Groups and Colors.
 * Custom Naming Conventions.
@@ -24,7 +23,6 @@ This control rig drives the already existing skeleton from the citizen.vmdl file
 * Perfect re-creation of the TiltTwist System and other systems from ModelDoc to Blender.
 * All animations to be adapted to the control rig.
 * IK to FK & FK to IK Snap System.
-* Advanced Facial Morph System based 
 
 # To be added
 

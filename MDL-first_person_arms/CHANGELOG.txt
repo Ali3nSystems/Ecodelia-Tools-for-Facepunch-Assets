@@ -1,0 +1,16 @@
+First Person Arms Control Rig v0.4 [25/05/2024]:
+
+- Removed old control rig and added the new updated one.
+
+First Person Arms Control Rig v0.3 [7/12/2023]:
+
+- Adjusted the control rig to the latest skeleton bone changes and vertex weights.
+
+First Person Arms Control Rig v0.2 [5/19/2023]:
+
+- SKLT_first_person_human@OBJ; Disable in viewports: ON --> OFF
+- SKLT_first_person_human@OBJ; Hide in viewports: OFF --> ON
+
+First Person Arms Control Rig v0.1 [5/18/2023]:
+
+- Added "First Person Arms Control Rig" and related assets.
