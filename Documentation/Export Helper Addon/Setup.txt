@@ -1,0 +1,38 @@
+Download this addon: https://github.com/Setherizor/blender-export-helper
+- You will find it in Blender's N-panel after installation.
+- "Better FBX Addon" export option will show up only if you have https://superhivemarket.com/products/better-fbx-importer--exporter installed. Native FBX exporter works just fine but it's slower to export with it.
+
+For simple animations only with the characters:
+
+1. Click "Setup Selections" to activate the fields for the Armature(s) and Control Rig(s).
+
+2. Add the SKLT object in the Armature(s) field and then the CRIG object in the Control Rig(s) field.
+
+3. Every other option should be left on default except Export Path and maybe Export Scale.
+
+4. Export Path should be set to where you want your animations to be exported.
+
+5. Export Scale should be kept on 1, but if you are using the base model feature that comes with s&box then you should use 0.393700787 (1 centimeter to inch conversion). Don't worry if the entire value isn't shown inside the addon's field, it's purely visual if it shows only 0.39 but it will export with the full value.
+
+6. Press "Get Options" and select the actions you want to export. After that press "Export"
+
+For more complex animations with a character and a gun:
+
+1. Download https://github.com/Ali3nSystems/Ecodelia-Assets and append the gun into the .blend file of the character (append the parent collection directly to import all the assets).
+
+2. Combine the control rig of the pistol to the control rig of the character (ctrl+j) for simplicity.
+
+3. Click "Setup Selections" to activate the fields for the Armature(s) and Control Rig(s). 
+
+4. Add the SKLT objects in the Armature(s) fields and then the combined CRIG object in the Control Rig(s) fields.
+
+5. Every other option should be left on default except Export Path and maybe Export Scale.
+
+6. Export Path should be set to where you want your animations to be exported.
+
+7. Export Scale should be kept on 1, but if you are using the base model feature that comes with s&box then you should use 0.393700787 (1 centimeter to inch conversion). Don't worry if the entire value isn't shown inside the addon's field, it's purely visual if it shows only 0.39 but it will export with the full value.
+
+8. Press "Get Options" and select the actions you want to export. After that press "Export"
+
+
+
