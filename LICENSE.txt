@@ -1,6 +1,6 @@
 Ecodelia Tools for Facepunch Assets
 
-Copyright © 2023-2024 Ali3n Systems
+Copyright © 2023-2026 Ali3n Systems
 
 No part of this package may be reproduced, distributed, or transmitted in any form or by any means without prior written consent from its author.
 
