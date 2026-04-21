@@ -1,0 +1,18 @@
+Download this addon: https://github.com/Ali3nSystems/Bone-Snapper-Addon-for-Blender
+- You will find it in Blender's N-panel after installation.
+
+How to set it up for the Ecodelia control rigs:
+
+1. Go into the N-panel to open the addon.
+
+2. Click on the "Import" field in the "Preset Management" tab. In your local "Ecodelia-Tools-for-Facepunch-Assets" folder you will have a "blender/preset(s)/BNSR-character.py" file for every character.
+
+3. Import that file.
+
+4. Some bones on the character's Control Rig (CRIG-character) are hidden by default. Go into the Object Data Properties (it has a green armature icon) tab in Properties menu.
+
+5. Go into Bone Collections --> CRIG-character --> CRBN-character --> CRBN-character-IK or CRBN-character-FK and make whatever bones you want to be visible, I suggest making every one of them visible.
+
+6. Go back to the addon in the N-panel and extend the "Snapping Operations" tab. Click on the "IK to FK" or "FK to IK" fields to enable these operations. While the field is blue, these operations will execute continuously.
+
+7. (Optional) For thumbs you may want to make visible the CRBN-character-MCH-metacarpal_1.L (or .R) bones if you plan on doing FK to IK snapping, otherwise you can't really modify the location of the parent bone.
