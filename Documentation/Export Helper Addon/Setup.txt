@@ -2,6 +2,8 @@ Download this addon: https://github.com/Setherizor/blender-export-helper
 - You will find it in Blender's N-panel after installation.
 - "Better FBX Addon" export option will show up only if you have https://superhivemarket.com/products/better-fbx-importer--exporter installed. Native FBX exporter works just fine but it's slower to export with it.
 
+(KNOWN BUG: If you don't see the "Get Options" or "Export" buttons for the human control rig then go to Dope Sheet --> Action Editor and select any animation.)
+
 For simple animations only with the characters:
 
 1. Click "Setup Selections" to activate the fields for the Armature(s) and Control Rig(s).
